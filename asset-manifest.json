@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/recipes-app/static/css/main.aceb5573.css",
+    "main.js": "/recipes-app/static/js/main.253fadf6.js",
+    "static/media/mealIcon.svg": "/recipes-app/static/media/mealIcon.40029e7f1422ba5a1bf1c10fa4f59030.svg",
+    "static/media/shareIcon.svg": "/recipes-app/static/media/shareIcon.87def1bd1dff9af9263f046c3b9bd31a.svg",
+    "static/media/profileIcon.svg": "/recipes-app/static/media/profileIcon.44eb3608f431845fe2fc2d2a23d758ae.svg",
+    "static/media/whiteHeartIcon.svg": "/recipes-app/static/media/whiteHeartIcon.2b822118952dc5140129c6349fcd0472.svg",
+    "static/media/searchIcon.svg": "/recipes-app/static/media/searchIcon.7353564d025de989f86f66ecb0202a04.svg",
+    "static/media/blackHeartIcon.svg": "/recipes-app/static/media/blackHeartIcon.083cb006913d197c95857ebfa2161db7.svg",
+    "static/media/drinkIcon.svg": "/recipes-app/static/media/drinkIcon.efc0d3c156e5da73e44a826c8d67b142.svg",
+    "static/media/loginImage.svg": "/recipes-app/static/media/loginImage.480cdce048bbe7d08b0406d93190ba99.svg",
+    "static/media/slick.svg": "/recipes-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/recipes-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/recipes-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/recipes-app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/recipes-app/index.html",
+    "main.aceb5573.css.map": "/recipes-app/static/css/main.aceb5573.css.map",
+    "main.253fadf6.js.map": "/recipes-app/static/js/main.253fadf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aceb5573.css",
+    "static/js/main.253fadf6.js"
+  ]
+}
