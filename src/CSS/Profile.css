@@ -1,0 +1,31 @@
+.profile-email {
+  display: flex;
+  height: auto;
+  padding: 0 30px;
+  text-align: center;
+}
+
+.btns-profile {
+  background-color: #269a70;
+  border: none;
+  border-radius: 30px;
+  box-shadow: -1px 3px 14px -3px #00000068;
+  box-shadow: -1px 3px 14px -3px #00000068;
+  color: white;
+  display: flex;
+  font-weight: 600;
+  justify-content: center;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  outline: none;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.wrapper-buttons {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 60vh;
+  justify-content: center;
+}

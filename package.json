@@ -9,7 +9,18 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "api": "^4.5.2",
+    "axios": "^0.27.2",
+    "bootstrap": "^4.5.3",
+    "clipboard-copy": "^4.0.1",
+    "prop-types": "^15.7.2",
+    "react-bootstrap": "^2.4.0",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^5.3.3",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "util": "^0.12.4"
   },
   "scripts": {
     "start": "react-scripts start",

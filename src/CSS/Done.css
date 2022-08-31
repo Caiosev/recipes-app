@@ -1,0 +1,60 @@
+.wrapper-done-btn {
+  align-items: center;
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: -2px;
+}
+
+.wrapper-done-btn button {
+  background-color: transparent;
+  border: 0;
+  border-left: 1px solid black;
+  border-radius: 10px 10px 0 0;
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+  height: 25px;
+  outline: 0;
+  width: 80px;
+}
+
+.card-done hr {
+  background-color: dimgray;
+  width: 100%;
+}
+
+.card-done {
+  align-items: center;
+  background-color: #f3f3f3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.card-image-done {
+  border-radius: 10px;
+
+}
+
+.card-done h3 {
+  margin: 0;
+  padding-top: 10px;
+}
+
+.card-done h1 {
+  margin: 0;
+}
+
+.card-done button {
+  background-color: transparent;
+  border: 0;
+  outline: none;
+}
+
+.done-name {
+  padding: 20px 0;
+}

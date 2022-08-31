@@ -1,0 +1,8 @@
+export const MIN_PASSWORD_LENGTH = 6;
+export const MAIN_PAGE_MAX_RECIPES = 12;
+export const MAIN_PAGE_MAX_CATEGORIES = 5;
+export const FOOD_RENDER_CHECKBOX = 20;
+export const DRINK_RENDER_CHECKBOX = 15;
+export const INTERVAL_FOR_LOCALSTORAGE_RETRIEVE = 500;
+export const PATHNAME_SLICE_FOOD = 12;
+export const PATHNAME_SLICE_DRINK = 14;
